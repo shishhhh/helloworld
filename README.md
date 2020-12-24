@@ -5,7 +5,8 @@ The very first project generally outputs or displays 'Hello, World' using PHP
 PHP
 
 # Tools 
-Sublime Text & XAMPP
+Sublime Text Editor
+XAMPP
 
-#Reference
+# Reference
 Bootstrap: https://getbootstrap.com/docs/5.0/getting-started/introduction/
